@@ -1,0 +1,16 @@
+# Junk
+[Tt]humbs.db
+*.DS_Store
+
+# Intermediates
+*.pyc
+*.pickle
+
+# Temporaries
+__pychache__/
+
+# Python distribution files
+dist/
+mcmcAllotter.egg-info/
+build/
+data/
